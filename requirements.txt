@@ -1,6 +1,0 @@
-python-statemachine>=3.11
- 
-numpy
-
-pandas
-matplotlib
